@@ -34,7 +34,7 @@ designed to help you begin using Zuora APIs.
 
 Zuora Support does not troubleshoot content from GitHub. The sample code is as an example of code 
 that has worked for previous implementations and was created by both Zuora and non-Zuora authors. 
-Please send any GitHub-related comments and feedback to Dev-Support@zuora.
+Please send any GitHub-related comments and feedback to Dev-Support@zuora.com.
 
 REQUIREMENTS
 ------------
@@ -76,7 +76,7 @@ For more information on the directory structure, see:
 DOCUMENTATION & SUPPORT
 -----------------------
 
-API Documentation is available at http://developer.zuora.com
+API Documentation is available at http://knowledgecenter.zuora.com/
 
 PRE-REQUISITES
 --------------
